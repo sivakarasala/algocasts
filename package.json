@@ -1,0 +1,17 @@
+{
+  "name": "algocasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --ui watch",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/ui": "^0.28.5",
+    "vitest": "^0.28.5"
+  }
+}
